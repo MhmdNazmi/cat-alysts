@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./assets/logo.png" width="250">
+</p>
+
+<h1 align="center">
+  EMTAD – Emirates Off-Grid Aid
+</h1>
+
+<p align="center">
+  Connecting remote communities to the right help, at the right time.
+</p>
+
 # 🚨 EMTAD – Emirates Off-Grid Aid
 
 > Connecting remote communities to the right services and help.
