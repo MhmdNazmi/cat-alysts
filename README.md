@@ -118,6 +118,11 @@ Volunteers earn:
 - Reputation scores
 - Achievement badges
 
+Users can benefit from community points through collaboration with Fazaa's government application.
+<p align="center">
+  <img src="./assets/reward-system.jpg" width="200">
+</p>
+
 ---
 
 ## 🌍 Impact & Value to the Community
