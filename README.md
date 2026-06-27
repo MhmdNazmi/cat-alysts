@@ -223,3 +223,9 @@ The solution was validated through high-fidelity UI prototypes demonstrating:
 | Team Member 2 | your-email@example.com |
 | Team Member 3 | your-email@example.com |
 | Team Member 4 | your-email@example.com |
+
+---
+
+## 📄 License
+
+Hackathon Submission - Tatweer Rural Communities Challenge
