@@ -10,12 +10,6 @@
   Connecting remote communities to the right help, at the right time.
 </p>
 
-# 🚨 EMTAD – Emirates Off-Grid Aid
-
-> Connecting remote communities to the right services and help.
-
----
-
 ## 🎯 Challenge Chosen
 
 **Challenge 2 — Reaching people quickly across a dispersed community**
