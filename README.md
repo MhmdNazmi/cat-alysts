@@ -66,6 +66,9 @@ EMTAD (Emirates Off-Grid Aid) is a mobile platform designed to connect people in
 - Automatic location sharing
 - Emergency service routing
 - Community volunteer notifications
+<p align="center">
+  <img src="./assets/visily-home.png" width="200">
+</p>
 
 ### 📱 SMS Emergency Fallback
 
@@ -74,6 +77,9 @@ When internet connectivity is unavailable:
 - SMS-based emergency communication
 - Location sharing through SMS
 - Continued communication in remote areas
+<p align="center">
+  <img src="./assets/visily-sms-compose.png" width="200">
+</p>
 
 ### 🤝 Community Assistance Network
 
@@ -100,6 +106,9 @@ Users can stay informed through:
 - Community notices
 - Events
 - Safety updates
+<p align="center">
+  <img src="./assets/visily-community.png" width="200">
+</p>
 
 ### 🏆 Reward System
 
@@ -206,6 +215,19 @@ Research identified several recurring challenges:
 - Connectivity limitations
 - Reliance on informal volunteer networks
 - Challenges faced by visitors unfamiliar with the area
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/tg-community.jpg" width="250"><br>
+    </td>
+    <td align="center">
+      <img src="./assets/fb-post.jpg" width="250"><br>
+    </td>
+    <td align="center">
+      <img src="./assets/fb-post2.jpg" width="250"><br>
+    </td>
+  </tr>
+</table>
 
 EMTAD was designed specifically to address these challenges through emergency coordination, community assistance, and resource discovery.
 
@@ -225,10 +247,9 @@ The solution was validated through high-fidelity UI prototypes demonstrating:
 
 | Member | Email |
 |----------|----------|
-| Team Member 1 | your-email@example.com |
-| Team Member 2 | your-email@example.com |
-| Team Member 3 | your-email@example.com |
-| Team Member 4 | your-email@example.com |
+| Ayisha Rehman | ayisharehman06@gmail.com |
+| Hiba Iqbal | hibaiqbal.capital@gmail.com |
+| Mohamed Nazmi | mohamednazmi2006@gmail.com |
 
 ---
 
